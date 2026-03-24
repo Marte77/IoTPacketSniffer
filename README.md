@@ -6,10 +6,10 @@ Download the [firmware for the dongle here](https://github.com/NordicSemiconduct
 Install nrfutils CLI tool by following [this guide (keep track where it was installed as that place contains the firmware needed)](https://docs.nordicsemi.com/bundle/nrfutil/page/guides/installing.html). Then install wireshark and plugins by following [this guide](https://docs.nordicsemi.com/bundle/nrfutil/page/guides/installing_wireshark.html). Now you can Follow [this guide to install the firmware. Dont forget to put the dongle in bootloader mode](https://docs.nordicsemi.com/bundle/nrfutil/page/nrfutil-ble-sniffer/guides/requirements.html).
 
 # report
-explain how capture works and what was used
-analyze zigbee communication in a smart home environment - explain the environment (so zigbee2mqtt and the type of radio and devices) try to check if i can turn on the light without using my zigbee2mqtt
-ble - if headset with BLE analyze and identify audio packets for example
-verify if security measures are used in BLE and 802.15.4
+- explain how capture works and what was used
+- analyze zigbee communication in a smart home environment - explain the environment (so zigbee2mqtt and the type of radio and devices) try to check if i can turn on the light without using my zigbee2mqtt
+- ble - if headset with BLE analyze and identify audio packets for example
+- verify if security measures are used in BLE and 802.15.4
 
 
 
